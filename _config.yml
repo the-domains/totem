@@ -1,21 +1,34 @@
-typography_spectrum: 0.8797395036090165
-color:
-  brandStrength: 0.6384830283932388
-  lightness: 0.9194291939493269
-  saturation: 0.288231095764786
-  rhythmicContrast: 0.9184555222745985
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+name: Totem
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b99ed9d-7693-45be-b75b-dd7e175ae55e.png
 layout_spectrum: 0.3727083618286997
+typography_spectrum: 0.8797395036090165
 author:
   email: info@thetotempoll.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/102fbb03-aff4-4f8c-ac87-9831024d3adb.png
-name: Totem
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b99ed9d-7693-45be-b75b-dd7e175ae55e.png
 title: Insights That Matter
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1b82ad'
+    - '#000000'
+    - '#e0f2f6'
+    - '#92b3d0'
+    - '#676869'
+  brandStrength: 1
+  lightness: 0.9194291939493269
+  saturation: 0.288231095764786
+  rhythmicContrast: 0.9184555222745985
+purpose: []
