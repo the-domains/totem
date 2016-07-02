@@ -1,0 +1,14 @@
+layout_spectrum: 0.3727083618286997
+typography_spectrum: 0.8797395036090165
+color:
+  brandStrength: 0.6384830283932388
+  lightness: 0.9194291939493269
+  saturation: 0.288231095764786
+  rhythmicContrast: 0.9184555222745985
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Totem
