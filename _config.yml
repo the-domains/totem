@@ -1,4 +1,3 @@
-layout_spectrum: 0.3727083618286997
 typography_spectrum: 0.8797395036090165
 color:
   brandStrength: 0.6384830283932388
@@ -11,4 +10,12 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.3727083618286997
+author:
+  email: info@thetotempoll.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/102fbb03-aff4-4f8c-ac87-9831024d3adb.png
 name: Totem
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b99ed9d-7693-45be-b75b-dd7e175ae55e.png
+title: Insights That Matter
