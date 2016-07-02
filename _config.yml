@@ -6,9 +6,9 @@ color:
   saturation: 0.288231095764786
   rhythmicContrast: 0.9184555222745985
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Totem
